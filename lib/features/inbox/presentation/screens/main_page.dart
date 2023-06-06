@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:nicetry/Constants/const.dart';
-import 'package:nicetry/screens/widgets/drawers.dart';
+import 'package:nicetry/constants/const.dart';
+import 'package:nicetry/features/inbox/presentation/widgets/drawers.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({super.key});

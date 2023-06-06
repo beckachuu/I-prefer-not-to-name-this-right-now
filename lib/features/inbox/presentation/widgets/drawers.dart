@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nicetry/Constants/const.dart';
+import 'package:nicetry/constants/const.dart';
 
 class CustomDrawer extends StatelessWidget {
   const CustomDrawer({super.key});

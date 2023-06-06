@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:nicetry/screens/pages/inbox_page.dart';
-import 'package:nicetry/screens/pages/main_page.dart';
+import 'package:nicetry/features/inbox/presentation/screens/inbox_page.dart';
+import 'package:nicetry/features/inbox/presentation/screens/main_page.dart';
 
-import '../Constants/const.dart';
+import 'constants/const.dart';
 
 class RouteGenerator {
   static Route<dynamic> generateRoute(RouteSettings settings) {
