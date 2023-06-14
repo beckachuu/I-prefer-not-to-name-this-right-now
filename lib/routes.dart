@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:nicetry/features/inbox/presentation/screens/inbox_page.dart';
 import 'package:nicetry/features/inbox/presentation/screens/main_page.dart';
 
-import 'constants/const.dart';
+import 'core/strings.dart';
 
 class RouteGenerator {
   static Route<dynamic> generateRoute(RouteSettings settings) {
