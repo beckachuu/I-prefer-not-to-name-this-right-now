@@ -19,6 +19,11 @@ This is a project that I will be working on while learning the fundamental stuff
 git clone https://github.com/beckachuu/I-prefer-not-to-name-this-right-now.git
 
 cd I-prefer-not-to-name-this-right-now
+
+flutter clean
+flutter packages get
+flutter packages upgrade
+flutter run
 ```
 Then click the "Run" button of the void main() in [main.dart](lib/main.dart) (remind me to rewrite this installation guide someday...)
 
